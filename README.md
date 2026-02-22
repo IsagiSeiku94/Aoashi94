@@ -6,7 +6,7 @@
 
 ## Instalación
 
-```bash $ git clone https://https://github.com/IsagiSeiku94/Aoashi94```
+```bash $ git clone https://github.com/IsagiSeiku94/Aoashi94```
 
 ```bash $ cd Aoashi94```
 
